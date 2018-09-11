@@ -1,0 +1,4 @@
+22.08.2018 00:41:35 INFO  Log4jDemo:9 - This is info log step
+22.08.2018 00:41:35 WARN  Log4jDemo:10 - This is a warning
+22.08.2018 00:41:35 DEBUG Log4jDemo:11 - This is a debug message
+22.08.2018 00:41:35 ERROR Log4jDemo:12 - This is error step 

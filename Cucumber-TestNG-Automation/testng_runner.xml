@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Presta shop automation tests" verbose="2">
+	<test name="Automated tests">
+		<classes>
+			<class name="com.app.runners.CukesRunner"></class>
+		</classes>
+	</test>
+</suite>
